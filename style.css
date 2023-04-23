@@ -16,7 +16,8 @@
 .eisenhower-matrix__img {
   width: 100%;
 }
-.eisenhower-matrix .eisenhower-matrix__info {
+.eisenhower-matrix,
+.eisenhower-matrix__info {
   font-family: fantasy, cursive;
 }
 
@@ -50,7 +51,7 @@
 }
 .task__checkbox,
 .task__input,
-.button{
+.button {
   outline: none;
 }
 .button {
